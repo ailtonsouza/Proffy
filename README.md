@@ -1,6 +1,6 @@
 # Proffy
 
-Projeto criado como parte da segunda semana next level, da RocketSeat.
+Projeto criado como parte do evento next level week 2, da RocketSeat.
 
 ### Tecnologias/Frameworks utilizados:
 
