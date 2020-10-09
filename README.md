@@ -12,6 +12,10 @@ Projeto criado como parte do evento next level week 2, da RocketSeat.
 
 3.Axios
 
+4.CSS
+
+5.HTML
+
 #### Backend:
 
 1.Express
