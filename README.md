@@ -1,6 +1,6 @@
 # Proffy
 
-Projeto criado como parte do curso The Complete Node.js Developer Course (3rd Edition), da Udemy.
+Projeto criado como parte da segunda semana next level, da RocketSeat.
 
 ### Tecnologias/Frameworks utilizados:
 
